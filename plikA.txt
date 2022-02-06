@@ -1,1 +1,2 @@
 Treść w pliku na A
+Treść w pliku A na branchu test
